@@ -1,9 +1,9 @@
 <style>
   #snake-img : {
-    "border-style" : "solid"
-    "border-color" : "white"
-    "border-wodth" : "10px"
-  }
+    "border-style" : "solid";
+    "border-color" : "white";
+    "border-wodth" : "10px";
+  };
 </style>
 
 <picture id='snake-img'>
