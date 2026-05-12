@@ -7,7 +7,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <hr>
 <h3>🌐 Languages</h3>
-![Python](https://img.shields.io/badge/Python-Expert-lightBlue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake-dark.svg" />
