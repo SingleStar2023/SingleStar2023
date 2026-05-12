@@ -27,7 +27,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <h3>🖌️ Other languages</h3>
 <div>
-<img src="https://img.shields.io/badge/HTML-Advanced-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML-Advanced-red?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/MarkDown-Advanced-red?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
