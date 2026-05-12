@@ -12,7 +12,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <h3>🖥️ Programming languages</h3>
 <div>
-<img src="https://img.shields.io/badge/Python-Expert-orange?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Expert-orange?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow">
 <img src="https://img.shields.io/badge/CPP-Beginner-blue">
 <img src="https://img.shields.io/badge/C-Beginner-blue">
