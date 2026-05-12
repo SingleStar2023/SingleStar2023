@@ -7,7 +7,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <hr>
 <h3>🌐 Languages</h3>
-<img src="https://img.shields.io/badge/English-Expert-lightBlue">
+<img src="https://img.shields.io/badge/English-Expert-green">
 <hr>
 
 <h3>🖥️ Programming languages</h3>
@@ -17,6 +17,14 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/CPP-Beginner-blue">
 <img src="https://img.shields.io/badge/C-Beginner-blue">
 <img src="https://img.shields.io/badge/CSharp-Beginner-blueviolet">
+</div>
+<hr>
+
+<h3>🖌️ Other languages</h3>
+<div>
+<img src="https://img.shields.io/badge/HTML-Advanced-red">
+<img src="https://img.shields.io/badge/CSS-Advanced-blue">
+<img src="https://img.shields.io/badge/MarkDown-Advanced-red">
 </div>
 
 <picture>
