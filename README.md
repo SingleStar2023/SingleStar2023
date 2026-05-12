@@ -11,12 +11,13 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <hr>
 
 <h3>🖥️ Programming languages</h3>
+<div>
 <img src="https://img.shields.io/badge/Python-Expert-lightBlue">
 <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow">
 <img src="https://img.shields.io/badge/C++-Beginner-blue">
 <img src="https://img.shields.io/badge/C-Beginner-blue">
-<img src="https://img.shields.io/badge/C#-Beginner-purple">
-
+<img src="https://img.shields.io/badge/C#-Beginner-red">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake-dark.svg" />
