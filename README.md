@@ -34,15 +34,22 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <hr>
 
 <h3>🧪 Skills</h3>
+<h4>⚙️ Processing</h4>
 <div>
 <img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<h4>📡 Web site</h4>
+<div>
 <img src="https://img.shields.io/badge/Aiohttp-Expert-orange?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Custom Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SocketIO-Expert-green?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Web RTC-Expert-red?style=for-the-badge&logo=webrtc&logoColor=white" />
+</div>
+
+<img src="https://img.shields.io/badge/Custom Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-Expert-blue?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
