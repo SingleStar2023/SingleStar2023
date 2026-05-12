@@ -45,8 +45,8 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SocketIO-Expert-green?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Web RTC-Advanced-red?style=for-the-badge&logo=webrtc&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-Advanced-orange?style=for-the-badge&logo=jwt&logoColor=white" />
-<img src="https://img.shields.io/badge/Cookie/Session management-Advanced-orange?style=for-the-badge&logo=cookie&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-Advanced-orange?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Cookie/Session management-Advanced-yellow?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>🎨 User interface</h3>
