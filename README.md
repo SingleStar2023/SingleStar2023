@@ -7,7 +7,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <hr>
 <h3>🌐 Languages</h3>
-<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge&logo=language&logoColor=white">
+<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge&logo=english&logoColor=white">
 <hr>
 
 <h3>🖥️ Programming languages</h3>
