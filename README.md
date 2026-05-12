@@ -34,7 +34,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <h2>🎮 Game programming languages</h2>
 <div>
 <img src="https://img.shields.io/badge/GameMaker-Expert-blueviolent?style=for-the-badge&logo=gamemaker&logoColor=white" />
-<img src="https://img.shields.io/badge/Godot-Expert-blue?style=for-the-badge&logo=godot&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-Expert-blue?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
 <hr>
 
