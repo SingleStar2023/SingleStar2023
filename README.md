@@ -1,5 +1,5 @@
 <p>Hi there 👋</p>
-<br>
+<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake-dark.svg" />
