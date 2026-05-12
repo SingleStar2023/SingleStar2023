@@ -30,6 +30,12 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/MarkDown-Advanced-red?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
+
+<h2>🎮 Game programming languages</h2>
+<div>
+<img src="https://img.shields.io/badge/GameMaker-Expert-blueviolent?style=for-the-badge&logo=gamemaker&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-Expert-blue?style=for-the-badge&logo=godot&logoColor=white" />
+</div>
 <hr>
 
 <h2>🧪 Skills</h2>
