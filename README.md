@@ -44,7 +44,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Aiohttp-Expert-orange?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SocketIO-Expert-green?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Web RTC-Expert-red?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Web RTC-Advanced-red?style=for-the-badge&logo=webrtc&logoColor=white" />
 </div>
 
 <h3>🎨 User interface</h3>
@@ -57,6 +57,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <div>
 <img src="https://img.shields.io/badge/OpenCV-Advanced-green?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Yolo-Average-red?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-Average-red?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 
 <center>
