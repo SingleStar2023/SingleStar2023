@@ -13,15 +13,15 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <hr>
 
 <h2>🌐 Languages</h2>
-<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/English-Expert-blue?style=for-the-badge" />
 
 <h2>🖥️ Programming languages</h2>
 <div>
-<img src="https://img.shields.io/badge/Python-Expert-orange?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Advanced-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/CPP-Beginner-blue?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C-Beginner-blue?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/CSharp-Beginner-blueviolet?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/CSharp-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 <h2>🖌️ Other languages</h2>
