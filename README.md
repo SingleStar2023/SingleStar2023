@@ -41,7 +41,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Custom Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Socketio-Expert-blue?style=for-the-badge&logo=socketio&logoColor=white" />
+<img src="https://img.shields.io/badge/SocketIO-Expert-blue?style=for-the-badge&logo=socket&logoColor=white" />
 <img src="https://img.shields.io/badge/Web RTC-Expert-blue?style=for-the-badge&logo=webrtc&logoColor=white" />
 </div>
 
