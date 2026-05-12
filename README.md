@@ -35,8 +35,8 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <h3>🧪 Skills</h3>
 <div>
-<img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge&logo=cpu&logoColor=white" />
-<img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=cpu&logoColor=white" />
+<img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge&logo=asyncapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Aiohttp-Expert-orange?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
