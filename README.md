@@ -30,8 +30,8 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <h3>🧪 Skills</h3>
 <div>
-<img src="https://img.shields.io/badge/ConcurrentProgramming-Expert-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ParallelProgramming-Expert-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge" />
 </div>
 
 <picture>
@@ -39,3 +39,5 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
 <img alt="github-snake" src="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlLBuG0dLrXc7Txak1qir4rveyRbRyYM2zLvDh__QLA&s=10" />
