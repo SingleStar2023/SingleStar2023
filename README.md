@@ -43,6 +43,8 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <div>
 <img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Process Management-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Memory Management-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>📡 Web site</h3>
