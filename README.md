@@ -68,6 +68,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/OpenCV-Advanced-green?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Yolo-Average-red?style=for-the-badge&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-Average-red?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-Advanced-orange?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 <center>
