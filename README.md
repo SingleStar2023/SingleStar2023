@@ -7,24 +7,24 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <hr>
 <h3>🌐 Languages</h3>
-<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge&logo=english&logoColor=white">
+<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge">
 <hr>
 
 <h3>🖥️ Programming languages</h3>
 <div>
 <img src="https://img.shields.io/badge/Python-Expert-orange?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-Advanced-yellow">
-<img src="https://img.shields.io/badge/CPP-Beginner-blue">
-<img src="https://img.shields.io/badge/C-Beginner-blue">
-<img src="https://img.shields.io/badge/CSharp-Beginner-blueviolet">
+<img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CPP-Beginner-blue?style=for-the-badge&logo=cpp&logoColor=white">
+<img src="https://img.shields.io/badge/C-Beginner-blue?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/CSharp-Beginner-blueviolet?style=for-the-badge&logo=csharp&logoColor=white">
 </div>
 <hr>
 
 <h3>🖌️ Other languages</h3>
 <div>
-<img src="https://img.shields.io/badge/HTML-Advanced-red">
-<img src="https://img.shields.io/badge/CSS-Advanced-blue">
-<img src="https://img.shields.io/badge/MarkDown-Advanced-red">
+<img src="https://img.shields.io/badge/HTML-Advanced-red?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/MarkDown-Advanced-red?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
 <picture>
