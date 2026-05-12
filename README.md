@@ -10,12 +10,12 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
 <img alt="github-snake" src="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<h3>🌐 Languages</h3>
-<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge" />
 <hr>
 
-<h3>🖥️ Programming languages</h3>
+<h2>🌐 Languages</h2>
+<img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge" />
+
+<h2>🖥️ Programming languages</h2>
 <div>
 <img src="https://img.shields.io/badge/Python-Expert-orange?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
@@ -23,9 +23,8 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/C-Beginner-blue?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/CSharp-Beginner-blueviolet?style=for-the-badge&logo=c&logoColor=white" />
 </div>
-<hr>
 
-<h3>🖌️ Other languages</h3>
+<h2>🖌️ Other languages</h2>
 <div>
 <img src="https://img.shields.io/badge/HTML-Advanced-red?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css&logoColor=white" />
@@ -34,13 +33,13 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <hr>
 
 <h2>🧪 Skills</h2>
-<h4>⚙️ Processing</h4>
+<h3>⚙️ Processing</h3>
 <div>
 <img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<h4>📡 Web site</h4>
+<h3>📡 Web site</h3>
 <div>
 <img src="https://img.shields.io/badge/Aiohttp-Expert-orange?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
@@ -48,7 +47,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Web RTC-Expert-red?style=for-the-badge&logo=webrtc&logoColor=white" />
 </div>
 
-<h4>🎨 User interface</h4>
+<h3>🎨 User interface</h3>
 <div>
 <img src="https://img.shields.io/badge/Custom Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
