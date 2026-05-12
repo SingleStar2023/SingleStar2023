@@ -14,9 +14,9 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <div>
 <img src="https://img.shields.io/badge/Python-Expert-orange">
 <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow">
-<img src="https://img.shields.io/badge/C++-Beginner-blue">
+<img src="https://img.shields.io/badge/CPP-Beginner-blue">
 <img src="https://img.shields.io/badge/C-Beginner-blue">
-<img src="https://img.shields.io/badge/C#-Beginner-blueviolet">
+<img src="https://img.shields.io/badge/CSharp-Beginner-blueviolet">
 </div>
 
 <picture>
