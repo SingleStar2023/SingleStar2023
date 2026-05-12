@@ -5,7 +5,12 @@ I've learned to do researches to learn anything <b>in correct way</b> to underst
 Why I do this 🤔 ? <b>because I guarantee my work.</b>
 </pre>
 
-<hr>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <h3>🌐 Languages</h3>
 <img src="https://img.shields.io/badge/English-Expert-green?style=for-the-badge" />
 <hr>
@@ -33,11 +38,5 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge" />
 </div>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake.svg" />
-</picture>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlLBuG0dLrXc7Txak1qir4rveyRbRyYM2zLvDh__QLA&s=10" />
