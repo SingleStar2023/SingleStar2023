@@ -61,6 +61,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <div>
 <img src="https://img.shields.io/badge/Custom Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Console UI-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>🤖 Machine learning</h3>
