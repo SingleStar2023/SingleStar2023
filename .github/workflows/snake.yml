@@ -12,8 +12,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
-    # THIS IS THE CRITICAL FIX - Add these permissions:
+  
     permissions:
       contents: write
       pages: write
