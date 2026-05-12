@@ -19,42 +19,42 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <div>
 <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-Advanced-orange?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/CPP-Beginner-blue?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/CPP-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/CSharp-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 <h2>🖌️ Other languages</h2>
 <div>
-<img src="https://img.shields.io/badge/HTML-Advanced-red?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge&logo=css&logoColor=white" />
-<img src="https://img.shields.io/badge/MarkDown-Advanced-red?style=for-the-badge&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-Advanced-orange?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-Advanced-orange?style=for-the-badge&logo=css&logoColor=white" />
+<img src="https://img.shields.io/badge/MarkDown-Advanced-orange?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
 <h2>🎮 Game programming languages</h2>
 <div>
-<img src="https://img.shields.io/badge/GameMaker-Expert-blueviolent?style=for-the-badge&logo=gamemaker&logoColor=white" />
-<img src="https://img.shields.io/badge/Godot-Expert-blue?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/GameMaker-Expert-blue?style=for-the-badge&logo=gamemaker&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-average-green?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
 <hr>
 
 <h2>🧪 Skills</h2>
 <h3>⚙️ Processing</h3>
 <div>
-<img src="https://img.shields.io/badge/Concurrent Programming-Expert-green?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Concurrent Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Process Management-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Memory Management-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Memory Management-Advanced-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>📡 Web site</h3>
 <div>
-<img src="https://img.shields.io/badge/Aiohttp-Expert-orange?style=for-the-badge&logo=aiohttp&logoColor=white" />
+<img src="https://img.shields.io/badge/Aiohttp-Expert-blue?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SocketIO-Expert-green?style=for-the-badge&logo=socket.io&logoColor=white" />
-<img src="https://img.shields.io/badge/Web RTC-Advanced-red?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/SocketIO-Expert-blue?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Web RTC-Advanced-orange?style=for-the-badge&logo=webrtc&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-Advanced-orange?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Cookie/Session management-Advanced-yellow?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Cookie/Session management-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>🎨 User interface</h3>
@@ -65,9 +65,9 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 
 <h3>🤖 Machine learning</h3>
 <div>
-<img src="https://img.shields.io/badge/OpenCV-Advanced-green?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Yolo-Average-red?style=for-the-badge&logo=yolo&logoColor=white" />
-<img src="https://img.shields.io/badge/Pytorch-Average-red?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-Advanced-orange?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Yolo-Average-green?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-Average-green?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-Advanced-orange?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
