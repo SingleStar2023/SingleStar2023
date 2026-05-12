@@ -1,9 +1,9 @@
-<pre>
+<p>
 <b>I've learned to know the syntax, and each line of code that I write 🧑‍💻</b>,
 and I have <b>NEVER</b> written anything that I can't truly know about.
 I've learned to do researches to learn anything <b>in correct way</b> to understand its real concept.<br>
 Why I do this 🤔 ? <b>because I guarantee my work.</b>
-</pre>
+</p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SingleStar2023/SingleStar2023/output/github-contribution-grid-snake-dark.svg" />
@@ -71,7 +71,12 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Pytorch-Average-green?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-Advanced-orange?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
+<hr>
+
+
 
 <center>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlLBuG0dLrXc7Txak1qir4rveyRbRyYM2zLvDh__QLA&s=10" />
 </center>
+
+
