@@ -67,12 +67,24 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Console UI-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<h3>🤖 Machine learning</h3>
+<h3>🧠 Machine learning</h3>
 <div>
 <img src="https://img.shields.io/badge/OpenCV-Advanced-orange?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Yolo-Average-green?style=for-the-badge&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-Average-green?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-Advanced-orange?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
+<h3>⛏️ Web scraping</h3>
+<div>
+<img src="https://img.shields.io/badge/Selenium-Average-green?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Beautiful Soup-Average-green?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+</div>
+
+<h3>🤖 Telegram bot</h3>
+<div>
+<img src="https://img.shields.io/badge/Telebot-Advanced-orange?style=for-the-badge&logo=pythontelegrambot&logoColor=white" />
+<img src="https://img.shields.io/badge/Telethon-Average-green?style=for-the-badge&logo=telethon&logoColor=white" />
 </div>
 <hr>
 
