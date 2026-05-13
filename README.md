@@ -51,10 +51,13 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <div>
 <img src="https://img.shields.io/badge/Aiohttp-Expert-blue?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-Average-green?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/SocketIO-Expert-blue?style=for-the-badge&logo=socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/Web RTC-Advanced-orange?style=for-the-badge&logo=webrtc&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-Advanced-orange?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Cookie/Session management-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gunicorn-Average-green?style=for-the-badge&logo=gunicorn&logoColor=white" />
+<img src="https://img.shields.io/badge/Uvicorn-Average-green?style=for-the-badge&logo=uvicorn&logoColor=white" />
 </div>
 
 <h3>🎨 User interface</h3>
