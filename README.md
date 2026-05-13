@@ -76,10 +76,4 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 </div>
 <hr>
 
-
-
-<picture>
-<source media="https://i1.delgarm.com/i/828/020426/64b515d7f34f6.gif" />
-</picture>
-
-
+<img src="https://i1.delgarm.com/i/828/020426/64b515d7f34f6.gif" />
