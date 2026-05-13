@@ -77,5 +77,5 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <hr>
 
 <center>
-<img src="https://i1.delgarm.com/i/828/020426/64b515df58ee7.gif" alt="design picture"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlLBuG0dLrXc7Txak1qir4rveyRbRyYM2zLvDh__QLA&s=10" />
 </center>
