@@ -78,13 +78,13 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <h3>⛏️ Web scraping</h3>
 <div>
 <img src="https://img.shields.io/badge/Selenium-Average-green?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Beautiful Soup-Average-green?style=for-the-badge&logo=beautifulsoup&logoColor=white" />
+<img src="https://img.shields.io/badge/Beautiful Soup-Average-green?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>🤖 Telegram bot</h3>
 <div>
-<img src="https://img.shields.io/badge/Telebot-Advanced-orange?style=for-the-badge&logo=pythontelegrambot&logoColor=white" />
-<img src="https://img.shields.io/badge/Telethon-Average-green?style=for-the-badge&logo=telethon&logoColor=white" />
+<img src="https://img.shields.io/badge/Telebot-Advanced-orange?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telethon-Average-green?style=for-the-badge&logo=telegram&logoColor=white" />
 </div>
 <hr>
 
