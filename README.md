@@ -38,7 +38,6 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/GameMaker-Expert-blue?style=for-the-badge&logo=gamemaker&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-average-green?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
-<hr>
 
 <h2 align="center">🧪 Skills</h2>
 <h3>⚙️ Processing</h3>
