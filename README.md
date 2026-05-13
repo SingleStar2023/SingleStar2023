@@ -12,11 +12,13 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 </picture>
 <hr>
 
-<h2>🌐 Languages</h2>
+<h2 align="center">🌐 Languages</h2>
+<div align="center">
 <img src="https://img.shields.io/badge/English-Expert-blue?style=for-the-badge" />
+</div>
 
-<h2>🖥️ Programming languages</h2>
-<div>
+<h2 align="center">🖥️ Programming languages</h2>
+<div align="center">
 <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-Advanced-orange?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/CPP-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
@@ -24,23 +26,23 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/CSharp-Beginner-yellow?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
-<h2>🖌️ Other languages</h2>
-<div>
+<h2 align="center">🖌️ Other languages</h2>
+<div align="center">
 <img src="https://img.shields.io/badge/HTML-Advanced-orange?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-Advanced-orange?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/MarkDown-Advanced-orange?style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
 
-<h2>🎮 Game programming languages</h2>
-<div>
+<h2 align="center">🎮 Game programming languages</h2>
+<div align="center">
 <img src="https://img.shields.io/badge/GameMaker-Expert-blue?style=for-the-badge&logo=gamemaker&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot-average-green?style=for-the-badge&logo=godotengine&logoColor=white" />
 </div>
 <hr>
 
-<h2>🧪 Skills</h2>
+<h2 align="center">🧪 Skills</h2>
 <h3>⚙️ Processing</h3>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Concurrent Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Parallel Programming-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Process Management-Advanced-orange?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +50,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 </div>
 
 <h3>📡 Web site</h3>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Aiohttp-Expert-blue?style=for-the-badge&logo=aiohttp&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-Expert-blue?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-Average-green?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -60,14 +62,14 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 </div>
 
 <h3>🎨 User interface</h3>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Custom Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tkinter-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Console UI-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>🧠 Machine learning</h3>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/OpenCV-Advanced-orange?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Yolo-Average-green?style=for-the-badge&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-Average-green?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -75,18 +77,18 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 </div>
 
 <h3>⛏️ Web scraping</h3>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Selenium-Average-green?style=for-the-badge&logo=selenium&logoColor=white" />
 <img src="https://img.shields.io/badge/Beautiful Soup-Average-green?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <h3>🤖 Telegram bot</h3>
-<div>
+<div align="center">
 <img src="https://img.shields.io/badge/Telebot-Advanced-orange?style=for-the-badge&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/Telethon-Average-green?style=for-the-badge&logo=telegram&logoColor=white" />
 </div>
 <hr>
 
-<center>
+<div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlLBuG0dLrXc7Txak1qir4rveyRbRyYM2zLvDh__QLA&s=10" />
-</center>
+</div>
