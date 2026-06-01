@@ -73,6 +73,7 @@ Why I do this 🤔 ? <b>because I guarantee my work.</b>
 <img src="https://img.shields.io/badge/Yolo-Average-green?style=for-the-badge&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-Average-green?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-Advanced-orange?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNXRuntime-Average-green?style=for-the-badge&logo=onnx&logoColor=white" />
 </div>
 
 <h3>⛏️ Web scraping</h3>
