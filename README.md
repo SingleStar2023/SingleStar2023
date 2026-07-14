@@ -1,8 +1,8 @@
 <p>
 <b>I've learned to know each line of code that I wrote 🧑‍💻</b>,
 and I have <b>NEVER</b> written anything that I can't truly know about.
-I've learned to do researches to learn anything <b>in correct way</b> to understand its real concept.<br>
-Why I do this 🤔 ? <b>because I guarantee my work.</b>
+I've learned researching to learn anything <b>in the correct way</b> to understand its real concept.<br>
+Why do I do this 🤔 ? <b>because I guarantee my work.</b>
 </p>
 
 <picture>
