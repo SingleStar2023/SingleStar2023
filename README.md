@@ -12,6 +12,7 @@ Why do I do this 🤔 ? <b>because I guarantee my work.</b>
 </picture>
 <hr>
 
+<details>
 <h2 align="center">🌐 Languages</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/English-Expert-blue?style=for-the-badge" />
@@ -92,3 +93,4 @@ Why do I do this 🤔 ? <b>because I guarantee my work.</b>
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVlLBuG0dLrXc7Txak1qir4rveyRbRyYM2zLvDh__QLA&s=10" />
 </div>
+</details>
